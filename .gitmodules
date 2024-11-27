@@ -1,0 +1,6 @@
+[submodule "MIPT/SecondSem/api"]
+	path = MIPT/SecondSem/api
+	url = git@github.com:PhotoshopAuthors/Standard.git
+[submodule "MIPT/SecondSem/MyPaint2.0/Standard"]
+	path = MIPT/SecondSem/MyPaint2.0/Standard
+	url = git@github.com:PhotoshopAuthors/Standard.git
